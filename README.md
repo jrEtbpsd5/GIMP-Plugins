@@ -15,6 +15,8 @@ a mask, this mask is modified. At the end the linked layer is unlinked.
 Link the layer which transparency you want to use.
 Click on the layer which mask you want to modify.
 Layer > Mask > Mask from linked layer.
+The context version: mask_from_linked_context.py is accessible
+via the context menu of the layer (right-clic).
 
 
 ### Prerequisites
