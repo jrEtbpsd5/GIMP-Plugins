@@ -56,9 +56,10 @@ via the context menu of the active layer (right-clic).
 
 ### Function
 
-It's the script sg-select-within-layer.scm written in Python. The function is the same: to select 
-a whole layer and to keep this selection to use it on another layer (which is not possible with 
-Select > Select All). If there is already a selection, the new selection replaces it.
+It's the script in Scheme from [saulgoode](https://chiselapp.com/user/saulgoode/repository/script-fu/wiki?name=sg-select-within-layer) 
+rewritten in Python. The function is the same: to select a whole layer and to keep this selection to use it on another layer (which is 
+not possible with "Select > Select All"). 
+If there is already a selection, the new selection replaces it.
 
 ### Usage
 
