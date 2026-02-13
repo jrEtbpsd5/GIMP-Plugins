@@ -1,7 +1,10 @@
 # GIMP-Plugins
-Some Python plug-ins for GIMP that I find useful. They work with GIMP 2.8+
+Some Python plug-ins for GIMP that I find useful. They work with GIMP 2.8.x - 2.10x
 and don't necessitate other plug-in. They have been tested on Windows 10 and
-on Debian 11.
+on Debian 11-12. They should not work with GIMP 3.x .
+<br>
+
+----
 <br>
 
 ## Mask from linked.
@@ -26,6 +29,10 @@ via the context menu of the active layer (right-clic).
 - basic Gimp 2.8+
 - at least two layers, the active one and another layer which must be 
   linked (no other linked layer!)
+
+<br>
+
+----
 <br>
 
 ## New from linked
@@ -52,6 +59,9 @@ via the context menu of the active layer (right-clic).
 
 <br>
 
+----
+<br>
+
 ## Selection within layer
 
 ### Function
@@ -64,7 +74,7 @@ If there is already a selection, the new selection replaces it.
 ### Usage
 
 Right-clic on the layer (context menu of the layer) and choose "Selection within layer". This is
-the only difference with original script which is in the Select menu.
+the only difference with original script which was in the Select menu.
 
 ### Prerequisites
 - basic Gimp 2.8+
